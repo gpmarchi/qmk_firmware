@@ -36,7 +36,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //,-----------------------------------------------------.                    ,-----------------------------------------------------.
       KC_TRNS,    KC_1,    KC_2,    KC_3,    KC_4,    KC_5,                         KC_6,    KC_7,    KC_8,    KC_9,    KC_0,  KC_DEL,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-      KC_TRNS, KC_CAPS, KC_CALC, XXXXXXX, XXXXXXX, XXXXXXX,                      KC_LEFT,   KC_UP, KC_DOWN,KC_RIGHT, XXXXXXX, KC_PGUP,
+      KC_TRNS, KC_CAPS, KC_CALC, KC_MYCM, XXXXXXX, XXXXXXX,                      KC_LEFT,   KC_UP, KC_DOWN,KC_RIGHT, XXXXXXX, KC_PGUP,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
       KC_TRNS,  KC_PWR, KC_SLEP, KC_WAKE, XXXXXXX, XXXXXXX,                      KC_PSCR, KC_HOME,  KC_END,  KC_INS, XXXXXXX, KC_PGDN,
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
